@@ -1,2 +1,25 @@
-# FATEC-JCR-DSM-BDR-2026-1-Nadla-Fernandes-Ferreira
-Disciplina de Banco de Dados Relacional - 2º semestre DSM - 2026/1
+# Portfólio - Banco de Dados Relacional - 2026/1
+
+##👤 Aluna
+- Nome: Nadla Fernandes Ferreira
+- Linkedin:
+- Git Hub: https://github.com/NadlaFernandes
+
+---
+
+##📁 Estrutura
+
+- P1
+- P2
+- Requisitos-ABP
+- Reflexões
+
+---
+
+## 📌 Projeto ABP
+Descrição do problema escolhido
+
+---
+
+## 🧠 Aprendizados
+Registro reflexivo sobre evolução no semestre
