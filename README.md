@@ -9,8 +9,8 @@
 
 ##📁 Estrutura
 
-- P1
-- P2
+- P1 -Conteudos → Aulas e atividades até a P1
+- P2 -Conteudos → Aulas e atividades até a P2
 - Requisitos-ABP
 - Reflexões
 
