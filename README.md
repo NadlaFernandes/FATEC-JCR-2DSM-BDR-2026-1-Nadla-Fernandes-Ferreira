@@ -2,7 +2,7 @@
 
 ##👤 Aluna
 - Nome: Nadla Fernandes Ferreira
-- Linkedin:
+- Linkedin: https://www.linkedin.com/in/nadla-ferreira-4646433a8/
 - Git Hub: https://github.com/NadlaFernandes
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Projeto ABP
-Descrição do problema escolhido
+Sistema web de atendimento (estilo SAC) desenvolvido para a secretaria acadêmica, integrando um chatbot automatizado para triagem e suporte aos alunos. Projeto prático desenvolvido para a ABP do 2º semestre.
 
 ---
 
