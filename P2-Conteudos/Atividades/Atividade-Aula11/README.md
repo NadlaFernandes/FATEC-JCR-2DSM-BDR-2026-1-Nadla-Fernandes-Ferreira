@@ -1,6 +1,6 @@
 # 📄 Enunciado com instruções para atividade 11
 
-Este repositório contém a resolução da **Atividade 11** desenvolvida para a disciplina de Banco de Dados Relacional (BDR).
+Esta pasta contém a resolução da **Atividade 11** desenvolvida para a disciplina de Banco de Dados Relacional (BDR).
 
 ---
 
