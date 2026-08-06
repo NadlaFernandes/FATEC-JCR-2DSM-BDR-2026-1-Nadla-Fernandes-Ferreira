@@ -23,4 +23,4 @@ https://github.com/abpundefined/2DSM-ABP-UNDEFINED
 ---
 
 ## 🧠 Aprendizados
-Ao final do semestre foi construído uma base forte em Banco de Dados Relacional e no uso de seus sistemas de gerenciamento como o PostgreSQL. O conhecimento adquirido possibilitou a nós nós estudantes desenvolvedores maior desenvolvimento na parte Backend.     
+Ao final do semestre foi construído uma base forte em Banco de Dados Relacional e no uso de seus sistemas de gerenciamento como o PostgreSQL. O conhecimento adquirido possibilitou a nós estudantes desenvolvedores maior desenvolvimento na parte Backend.     
